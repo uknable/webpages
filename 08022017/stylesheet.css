@@ -1,0 +1,34 @@
+#mainbody {
+  margin: 5% 18%;
+}
+
+#header {
+  position: absolute;
+}
+
+#logo {
+  float: left;
+}
+
+#usernav li {
+  font-family: Helvetica Neue;
+  font-size: 16px;
+  float: right;
+  list-style-type: none;
+  display: inline-block;
+  margin: 8px 5px 0 5px;
+}
+
+#middle {
+  border: 1px solid black;
+  padding: 200px;
+  margin-top: 200px;
+}
+
+ul {
+
+}
+
+/* {
+  border: 1px solid black;
+}
